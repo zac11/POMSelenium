@@ -1,0 +1,12 @@
+###########################################################Created by Rahul#####################################
+
+This is a simple POM created to test an incorrect facebook login.
+The LoginPage file is using the latest version of Marionette driver., which has
+been initialized using the 'wires' and desired capabilities method.
+
+
+
+
+
+
+##################################################################################################################
